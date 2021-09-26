@@ -1,0 +1,23 @@
+body{
+    background-color: #E2E8DD;
+    font-family: 'Comic Neue', cursive;
+    text-align: center;
+}
+button{
+    height: 30px !important;
+    width: 100px !important;
+    font-size: 19px !important;
+    font-weight: 700 !important;
+}
+.header_div{
+    background-color: #95A3A4;
+    color: whitesmoke;
+}
+.copy_right_footer{
+    background-color: #95A3A4 !important;
+    Position: fixed;
+    Bottom:0;
+    Width: 100%;
+    height: 70px;
+    font-size: 20px !important;
+}
